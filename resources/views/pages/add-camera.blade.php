@@ -19,6 +19,11 @@
         justify-content:space-between;
     }
 
+    .camera-card {
+	    margin-bottom: 30px;
+        margin-left: 230px;
+    }
+
     /* input {
         width: 300px;
     } */
@@ -36,6 +41,10 @@
 
         .two-inputs {
             display: block;
+        }
+
+        .camera-card {
+            margin-left: 130px;
         }
     }
 
@@ -81,7 +90,7 @@
                                     <div class="col-md-8">
                                         <div class="page-header-title">
                                             <h5 class="m-b-10">Add Camera</h5>
-                                            <p class="m-b-0">Lorem Ipsum is simply dummy text of the printing</p>
+                                            <p class="m-b-0">Welcome to Add Camera</p>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
@@ -89,7 +98,7 @@
                                             <li class="breadcrumb-item">
                                                 <a href="/dashboard"> <i class="fa fa-home"></i> </a>
                                             </li>
-                                            <li class="breadcrumb-item"><a href="/add-camera">Camera</a>
+                                            <li class="breadcrumb-item"><a href="/add-camera">Add Camera</a>
                                             </li>
                                             {{-- <li class="breadcrumb-item"><a href="#!">Google Maps</a> --}}
                                             </li>
@@ -112,7 +121,7 @@
                                                 <div class="row">
 
                                                     <div class="col-md-4" style="display: flex; justify-content: center;margin-top: 20px;">
-                                                        <div class="card" >
+                                                        <div class="camera-card" >
                                                             {{-- <div class="card-block"> --}}
                                                                 <iframe src="https://media.geeksforgeeks.org/wp-content/uploads/20231020155223/Full-Stack-Development-_-LIVE-Classes-_-GeeksforGeeks.mp4" frameborder="0" allowfullscreen></iframe>
                                                             {{-- </div> --}}

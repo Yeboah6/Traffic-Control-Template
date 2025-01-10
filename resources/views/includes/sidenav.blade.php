@@ -63,6 +63,14 @@
                             <span class="pcoded-mcaret"></span>
                         </a>
                     </li>
+
+                    <li class="">
+                        <a href="/cameras" class="waves-effect waves-dark">
+                            <span class="pcoded-micon"><i class="ti-angle-right"></i></span>
+                            <span class="pcoded-mtext">Cameras</span>
+                            <span class="pcoded-mcaret"></span>
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>

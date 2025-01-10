@@ -89,7 +89,7 @@
                                                             <div class="col-sm-6 p-b-20 p-t-20">
                                                                 <div class="row align-items-center text-center">
                                                                     <div class="col-4 p-r-0">
-                                                                        <i class="far fa-envelope-open text-c-blue f-24"></i>
+                                                                        <i class="fas fa-wifi text-c-green f-24"></i>
                                                                     </div>
                                                                     <div class="col-8 p-l-0">
                                                                         <h5>120</h5>
@@ -108,7 +108,7 @@
                                                             <div class="col-sm-6 b-r-default p-b-20 p-t-20">
                                                                 <div class="row align-items-center text-center">
                                                                     <div class="col-4 p-r-0">
-                                                                        <i class="fas fa-share-alt text-c-purple f-24"></i>
+                                                                        <i class="far fa-user text-c-blue f-24"></i>
                                                                     </div>
                                                                     <div class="col-8 p-l-0">
                                                                         <h5>1000</h5>

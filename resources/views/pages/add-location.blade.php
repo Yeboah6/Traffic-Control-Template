@@ -48,7 +48,7 @@
                                 <div class="page-wrapper">
                                     <!-- Page body start -->
                                     <div class="page-body">
-                                        <div class="row">
+                                        {{-- <div class="row">
                                             <div class="col-lg-12 col-xl-6">
                                                 <!-- Basic map start -->
                                                 <div class="card">
@@ -75,8 +75,8 @@
                                                 </div>
                                                 <!-- Markers map end -->
                                             </div>
-                                        </div>
-                                        <div class="row">
+                                        </div> --}}
+                                        {{-- <div class="row">
                                             <div class="col-lg-12 col-xl-6">
                                                 <!-- Overlay map start -->
                                                 <div class="card">
@@ -111,8 +111,8 @@
                                                </div>
                                                <!-- Geo-Coding map end -->
                                            </div>
-                                       </div>
-                                       <div class="row">
+                                       </div> --}}
+                                       {{-- <div class="row">
                                         <div class="col-lg-12 col-xl-6">
                                             <!-- Street View map start -->
                                             <div class="card">
@@ -139,7 +139,7 @@
                                             </div>
                                             <!-- Map Types card end -->
                                         </div>
-                                    </div>
+                                    </div> --}}
                                     <div class="row">
                                         <div class="col-lg-12 col-xl-6">
                                             <!-- GeoRSS Layers map start -->
